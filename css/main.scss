@@ -145,7 +145,7 @@ $utilities: (
     margin: 0;
     padding: 0;
     list-style-type: none;
-    
+
     a {
       color: white;
       text-decoration: none;
@@ -156,5 +156,12 @@ $utilities: (
     a:hover {
       text-decoration: underline;
     }
+  }
+}
+
+.popular-products {
+  .add_to_cart_button {
+    display: block !important;
+    text-align: center;
   }
 }

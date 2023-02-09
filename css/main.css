@@ -10627,4 +10627,9 @@ textarea.form-control-lg {
 }
 .site-footer .menu a:hover {
   text-decoration: underline;
+}
+
+.popular-products .add_to_cart_button {
+  display: block !important;
+  text-align: center;
 }/*# sourceMappingURL=main.css.map */
